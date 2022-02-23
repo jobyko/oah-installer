@@ -1,4 +1,4 @@
-# General oah environments
+- General oah environments
 
 oah-vm,0.0.1-a1,
 oah-drupal8-vm,0.0.1-a1,
@@ -12,7 +12,7 @@ oah-hackathon-vm,0.0.1-a1,
 oah-dev-vm,0.0.1-a1,
 oah-bes-vm,0.0.1-a1
 
-# O31E compute boxes
+- O31E compute boxes
 
 oah-sast-env,0.0.1-a1
 oah-fuzz-env,0.0.1-a1
