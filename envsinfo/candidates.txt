@@ -9,3 +9,4 @@ oah-ram-vm,0.0.1-a1,
 oah-hackathon-vm,0.0.1-a1,
 oah-dev-vm,0.0.1-a1,
 oah-bes-vm,0.0.1-a1,
+oah-sast-env,0.0.1-a1
