@@ -12,9 +12,8 @@ oah-hackathon-vm,0.0.1-a1,
 oah-dev-vm,0.0.1-a1,
 oah-bes-vm,0.0.1-a1
 
-_O31E-compute-boxes
-
+_o31E-lab-environments
 oah-sast-env,0.0.1-a1
 oah-fuzz-env,0.0.1-a1
-oah-devops-env,0.0.1-a1
-oah-control-env,0.0.1-a1
+oah-ci-env,0.0.1-a1
+oah-visualization-env,0.0.1-a1
